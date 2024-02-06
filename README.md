@@ -27,10 +27,14 @@ Skrypt PHP pobierający i wyświetlający zamówienia na podstawie ich statusu. 
 
 ## Arkusze stylów
 styleIndex.css: Style dla strony index.php.
+
 styleKitchen.css: Style dla strony kitchen.php.
+
 styleOrders.css: Style dla strony order.php.
 
 ## Inne technologie
 Bootstrap: Wersja 4.5.2
+
 Animate.css: Wersja 4.1.1
+
 Toastr: Wersja 2.1.4
